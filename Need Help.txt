@@ -1,0 +1,11 @@
+git <what action u looking for?> --help
+
+example:
+i want help about config section then it will be 
+
+git config --help
+
+or 
+add section 
+
+git config --help

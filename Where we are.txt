@@ -1,0 +1,7 @@
+pwd  //just type pwd and hit enter it will show u where git  is looking right now
+
+
+for my example
+
+$ pwd
+/f/Tuts/New folder/GitHub Command line

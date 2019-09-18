@@ -1,0 +1,28 @@
+git config --global user.name "username"      //this is a way to add your user name.
+
+git config --user.email "your email"        //this is same thing for email.
+
+git config --list                         //to check those values all of our configurations values.
+
+
+
+git config --list  		 //this is my values that i have listed in my git config.
+core.symlinks=true
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=D:/Softwares/GIT/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.email=mizan.rahman66d@gmail.com
+user.name=Mizanur Rahman
