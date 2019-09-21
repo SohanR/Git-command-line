@@ -1,0 +1,6 @@
+git clone <repo url> <path where to clone>
+
+example 
+git clone https://github.com/SohanR/Git-command-line . 
+
+in upper line dot (.) means current directory, so its a  pasth where i want to clone.

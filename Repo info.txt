@@ -1,0 +1,3 @@
+git remote -v  //is show us location of my local machine of where the repo is.
+
+git branch -a  //it list all of the branches in our repo,not only locally but remootey as well.

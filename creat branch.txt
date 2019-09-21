@@ -1,0 +1,3 @@
+git branch <branch name>
+
+git cheackout <name of branch u creat>
