@@ -9,3 +9,4 @@ or
 add section 
 
 git config --help
+git config is used to configure the local git settings for an individual user.
